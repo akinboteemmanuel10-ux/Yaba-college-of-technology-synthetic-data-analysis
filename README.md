@@ -66,7 +66,7 @@ It contains Students Admission-to-Graduation Analysis and Performance Dashboard 
   - Admission status from (2017-2023) Admission Peaked in 2020, sharp drop in 2021, with the students UTME performance
   - 10,001 did not graduate, attributed to withdrawals, finances, personal issues, academic failure
   - 49% (implying more than half did not complete within the period), with reasons aligned to non‑completion factors
-  - Breakdown shownCGPA on a 4.0 scale:
+  - Breakdown shown CGPA on a 4.0 scale:
     
     3.50–4.00 (Distinction): 2,461 students
     
@@ -78,14 +78,20 @@ It contains Students Admission-to-Graduation Analysis and Performance Dashboard 
   
     <2.00 (Fail): 10,001 students
   - Graduation rates vary by department;
-      Highest: ND Electrical/Electronics and 
+      Highest: ND Electrical/Electronics with  and 
       Lowest: HND Computer Science
 
 ## Recommendation
-  - The report recommends boosting Yabatech’s ability to attract students by:
-  Enhancing the institution’s brand visibility,
-  Showcasing alumni who have excelled in industry or academia,
-  Introducing modern, in‑demand courses such as data analytics, web design, AI, and machine learning.
+  - The report recommends boosting Yabatech’s ability to attract students by Enhancing the institution’s brand visibility,
+    Showcasing alumni who have excelled in the industries or academia,
+  - Introducing modern, in‑demand courses such as data analytics, web design, AI, and machine learning
+  - To sustain Yabatech legacy as a leading institution, immediate investments in renovation and expansion is necessary. Upgrading of lecture halls, laboratories, and hostels      Renovating yabatech is not just buildings, but creating an environment that improves learning and meets the needs of our growing population.
+
+## PROJECT FILES
+#### Admission datasets
+- <a href =  >datasets</a>
+
+
     
 
     
