@@ -101,7 +101,7 @@ It contains Students Admission-to-Graduation Analysis and Performance Dashboard 
   - <a href =https://github.com/akinboteemmanuel10-ux/Yaba-college-of-technology-synthetic-data-analysis/blob/main/YABATECH%20PROJECT.pptx> Slides </a>
 
 ### Power BI dashboard interface
-  - <a href = 
+  - <a href = https://github.com/akinboteemmanuel10-ux/Yaba-college-of-technology-synthetic-data-analysis/blob/main/dashboard.png> Dashboard </a>
 
 
     
