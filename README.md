@@ -98,7 +98,7 @@ It contains Students Admission-to-Graduation Analysis and Performance Dashboard 
 - <a href = https://github.com/akinboteemmanuel10-ux/Yaba-college-of-technology-synthetic-data-analysis/blob/main/Yabatech%20data%20cleaning.xlsx> datasets </a>
 
 ### Presentation slides
-
+  - <a href =https://github.com/akinboteemmanuel10-ux/Yaba-college-of-technology-synthetic-data-analysis/blob/main/YABATECH%20PROJECT.pptx> Slides </a>
 
 
     
