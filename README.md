@@ -88,11 +88,14 @@ It contains Students Admission-to-Graduation Analysis and Performance Dashboard 
   - To sustain Yabatech legacy as a leading institution, immediate investments in renovation and expansion is necessary. Upgrading of lecture halls, laboratories, and hostels      Renovating yabatech is not just buildings, but creating an environment that improves learning and meets the needs of our growing population.
 
 ## PROJECT FILES
-#### Admission datasets
+#### Admission unstuctured datasets
 - <a href = https://github.com/akinboteemmanuel10-ux/Yaba-college-of-technology-synthetic-data-analysis/upload/main>datasets</a>
 
-### Graduation datasets
-- <a href = 
+### Graduation unstructured datasets
+- <a href = https://github.com/akinboteemmanuel10-ux/Yaba-college-of-technology-synthetic-data-analysis/upload/main>datasets </a>
+
+### Merged and cleaned Adimission & graduation datasets
+
 
 
     
