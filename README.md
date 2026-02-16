@@ -1,7 +1,14 @@
 # Yaba-college-of-technology-synthetic-Project
 
+## About the intitution
+  Yaba college of technology was established in 1947, is Nigeria's first higher educational institution located in Yaba, Lagos. It is renowned for providing technical and vocational     education and has a student enrollment of over 16,000. Recently, YABATECH was recognized as the Best Tourism Tertiary Institution in Southwest Nigeria and is set to become a     university focusing on vocational training and innovation.
+  
+  I am also proud to be an alumni of the institution
+
+
 ### Project overview
 It contains Students Admission-to-Graduation Analysis and Performance Dashboard for Yaba college of technology
+#### Note: This is a synthetic datasets (not a real datasets of the institution)
 
 ## Project objectives
 - To clean, transform, and analyze Student Admission and Graduation data
